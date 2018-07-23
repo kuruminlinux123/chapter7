@@ -1,3 +1,5 @@
+# coding: utf-8
+
 import os
 teste = 'teste'
 def run(**args):
